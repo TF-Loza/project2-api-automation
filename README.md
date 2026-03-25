@@ -1,6 +1,6 @@
 # Project 2 - Authenticated API Automation Framework (C# + xUnit + RestSharp)
 
-![.NET Tests](https://github.com/TF-Loza/project2-api-automation/actions/workflows/dotnet-tests.yml/badge.svg)
+![CI](https://github.com/TF-Loza/project2-api-automation/actions/workflows/dotnet-tests.yml/badge.svg)
 
 ## Overview
 This project is an API automation framework built in C# using xUnit and RestSharp.
