@@ -1,5 +1,3 @@
-![CI](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/dotnet-api-tests.yml/badge.svg)
-
 # Project 2 - Authenticated API Automation Framework (C# + xUnit + RestSharp)
 
 ![CI](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/dotnet-api-tests.yml/badge.svg)
